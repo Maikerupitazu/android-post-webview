@@ -13,6 +13,9 @@ ext {
     VERSION_NAME = "1.0.3"
 }
 
+group = 'com.github.Maikerupitazu'
+version = VERSION_NAME
+
 android {
     compileSdkVersion 28
 
@@ -34,6 +37,3 @@ dependencies {
     implementation 'com.squareup.mimecraft:mimecraft:1.1.0'
     implementation 'org.jsoup:jsoup:1.7.2'
 }
-
-group = 'com.github.Maikerupitazu'
-version = VERSION_NAME
