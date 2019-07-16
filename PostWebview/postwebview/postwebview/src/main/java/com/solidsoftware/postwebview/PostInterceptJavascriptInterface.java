@@ -1,4 +1,4 @@
-package org.solidsoftware.postwebview;
+package com.solidsoftware.postwebview;
 
 import android.content.Context;
 import android.util.Log;
