@@ -1,4 +1,4 @@
-package com.solidsoftware.postwebview;
+package com.maikerupitazu.postwebview;
 
 import android.content.Context;
 import android.util.Log;
