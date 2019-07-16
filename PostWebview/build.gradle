@@ -9,12 +9,11 @@ repositories {
 }
 
 ext {
-    VERSION_CODE = 1
-    VERSION_NAME = "1.0.4"
+    VERSION_CODE = 2
+    VERSION_NAME = "1.1.0"
 }
 
 group = 'com.github.Maikerupitazu'
-version = VERSION_NAME
 
 android {
     compileSdkVersion 28
