@@ -13,7 +13,7 @@ ext {
     VERSION_NAME = "1.1.0"
 }
 
-group = 'com.github.Maikerupitazu'
+group = 'com.github.thedokuijf'
 
 android {
     compileSdkVersion 28
