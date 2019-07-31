@@ -1,9 +1,8 @@
-package com.maikerupitazu.postwebview;
+package com.github.thedokuijf.postwebview;
 
 import android.content.Context;
 import android.util.Log;
 import android.webkit.JavascriptInterface;
-
 import org.jsoup.Jsoup;
 
 import java.io.IOException;
