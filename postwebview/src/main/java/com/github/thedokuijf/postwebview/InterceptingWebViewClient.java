@@ -1,4 +1,4 @@
-package com.maikerupitazu.postwebview;
+package com.github.thedokuijf.postwebview;
 
 import android.webkit.WebResourceRequest;
 import android.webkit.WebResourceResponse;
