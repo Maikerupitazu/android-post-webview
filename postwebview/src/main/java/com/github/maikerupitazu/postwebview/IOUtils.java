@@ -1,4 +1,4 @@
-package com.github.thedokuijf.postwebview;
+package com.github.maikerupitazu.postwebview;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

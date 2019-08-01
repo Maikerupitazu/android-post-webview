@@ -1,15 +1,18 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'com.github.thedokuijf'
+ext.VERSION_NAME = '1.2.3'
+
+group = 'com.github.maikerupitazu'
+version = VERSION_NAME
 
 android {
     compileSdkVersion 28
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName VERSION_NAME
     }
 
     buildTypes {

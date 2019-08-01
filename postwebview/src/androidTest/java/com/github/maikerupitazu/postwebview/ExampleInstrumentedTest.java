@@ -1,4 +1,4 @@
-package com.github.thedokuijf.postwebview;
+package com.github.maikerupitazu.postwebview;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
